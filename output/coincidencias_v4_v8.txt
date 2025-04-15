@@ -1,0 +1,7 @@
+                        v4_col                               v8_col  similarity_score
+           FUENTE_FINANCIACION            FUENTE_FINANCIACION_CORTE         86.363636
+            NIVEL_DE_FORMACION                   NIVEL_DE_FORMACIÓN         94.444444
+NÚCLEO_BÁSICO_DEL_CONOCIMIENTO NÚCLEO_BÁSICO_DEL_CONOCIMIENTO_CORTE         90.909091
+          ÁREA_DE_CONOCIMIENTO           ÁREA_DE_CONOCIMIENTO_CORTE         86.956522
+            IDENTIDADES_GENERO                     IDENTIDAD_GENERO         94.117647
+          RA_TIPO_DISCAPACIDAD                      RA_DISCAPACIDAD         85.714286

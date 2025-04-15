@@ -1,0 +1,3 @@
+                        v7_col                               v8_col  similarity_score
+NÚCLEO_BÁSICO_DEL_CONOCIMIENTO NÚCLEO_BÁSICO_DEL_CONOCIMIENTO_CORTE         90.909091
+          ÁREA_DE_CONOCIMIENTO           ÁREA_DE_CONOCIMIENTO_CORTE         86.956522
